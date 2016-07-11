@@ -6,5 +6,6 @@ int main(void){
  *It's aimed at connecting to the server
  *this  is  a test
  */
+	puts("hello");
 	return 0;
 }
